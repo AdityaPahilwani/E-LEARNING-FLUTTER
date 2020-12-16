@@ -11,6 +11,8 @@ It uses Provider for state management
 
 To run this app you need to add your google-service.json in android->app->google-service.json
 
+<b>Full Demo Link</b>
+https://www.youtube.com/watch?v=OM5-W7fM3cU
 <h1>Screenshots</h1>
 <br>
 <h2>Auth</h2>
